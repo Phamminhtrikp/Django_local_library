@@ -1,2 +1,1 @@
-# Django_local_library
-Local Library website written in Django
+# Django_
